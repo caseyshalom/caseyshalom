@@ -16,7 +16,6 @@
 #### Networking
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
   <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
 </p>
 
