@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif"></p>
 
 ### About Me 🌟
-- 🌱 I'm currently learning **Networking, Cloud Computing, and DevOps**
+- 🌱 I'm currently learning **Networking, Cloud Computing, DevOps, and AI**
 - ⚡ Fun fact: **Food and Music🎵 are the reasons to live**
 
 ### My Tech Stack 🛠️
