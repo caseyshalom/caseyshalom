@@ -21,11 +21,19 @@
 </p>
 
 #### Cloud Platforms
-<p align="left">
-  <img src="https://img.icons8.com/color/48/ffffff/amazon-web-services.png" width="40" height="40" alt="AWS"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="40" height="40" alt="GCP"/> &nbsp;
-  <img src="https://img.shields.io/badge/Huawei_Cloud-ED1C24?style=for-the-badge&logo=huawei&logoColor=white" height="40" alt="Huawei Cloud"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/ffffff/amazon-web-services.png" width="40" height="40" alt="AWS"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="40" height="40" alt="GCP"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Huawei_Cloud-ED1C24?style=for-the-badge&logo=huawei&logoColor=white" height="40" alt="Huawei Cloud"/>
+    </td>
+  </tr>
+</table>
 
 #### Operating Systems & Web Servers
 <p align="left">
