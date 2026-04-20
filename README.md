@@ -22,9 +22,9 @@
 
 #### Cloud Platforms
 <p align="left">
-  <img src="https://img.icons8.com/color/48/ffffff/amazon-web-services.png" alt="AWS" width="40" height="40" style="vertical-align:middle;"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40" style="vertical-align:middle; margin-left: 10px;"/>
-  <img src="https://img.shields.io/badge/Huawei_Cloud-ED1C24?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" style="vertical-align:middle; margin-left: 10px;">
+  <img src="https://img.icons8.com/color/48/ffffff/amazon-web-services.png" width="40" height="40" alt="AWS" style="vertical-align:middle; display:inline-block;"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="40" height="40" alt="GCP" style="vertical-align:middle; display:inline-block; margin-left: 5px;"/>
+  <img src="https://img.shields.io/badge/Huawei_Cloud-ED1C24?style=for-the-badge&logo=huawei&logoColor=white" height="40" alt="Huawei Cloud" style="vertical-align:middle; display:inline-block; margin-left: 5px;"/>
 </p>
 
 #### Operating Systems & Web Servers
